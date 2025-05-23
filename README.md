@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
-## 📊 GitHub Stats
+📊## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darpan-10&layout=compact&theme=radical" alt="Top Languages" />
