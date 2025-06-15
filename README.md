@@ -4,7 +4,7 @@
 - 📫 **How to reach me**: <a href="https://www.linkedin.com/in/your-profile-name" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" />
     </a>    
-- ☕ **Fun Fact:** I spend more time naming variables and sipping coffee than writing actual code! 😄
+- ☕ **Fun Fact:** I spend more time naming variables than writing actual code! 😄
  
 ## 🛠️ Tools I Use
 
