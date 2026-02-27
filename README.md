@@ -52,16 +52,6 @@ const darpan = {
 
 ---
 
-## 🔥 Featured Projects
-
-> 💡 *Replace these with your real projects — you've definitely built cooler stuff than I can make up.*
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🚧 **Project Alpha** | What it does in one punchy line | React · FastAPI · PostgreSQL |
-| 🚧 **Project Beta** | What it does in one punchy line | Next.js · Node.js · MongoDB |
-
----
 
 ## 📊 GitHub Stats
 
