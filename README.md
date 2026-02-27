@@ -1,99 +1,104 @@
-# Hi there 👋, Myself Darpan
+<div align="center">
 
-- 🌱 I’m currently learning about the FullStack Development 
-- 📫 **How to reach me**: <a href="https://www.linkedin.com/in/your-profile-name" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" />
-    </a>    
-- ☕ **Fun Fact:** I spend more time naming variables than writing actual code! 😄
- 
-## 🛠️ Tools I Use
+# `< D A R P A N />`
 
-<!-- Programming Languages -->
-<h4>💻 Programming Languages</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-</p>
+### My code works. I have no idea why. Let's ship it. 🚀
 
-<!-- Frameworks -->
-<h4>🌐 Frameworks / Web Technologies</h4>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darpan-mandal)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darpan-10)
+![Profile Views](https://komarev.com/ghpvc/?username=Darpan-10&style=for-the-badge&color=blueviolet)
 
-<!-- Database -->
-<h4>🗄️ Database Management System</h4>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-<!-- Design Tools -->
-<h4>🎨 UI/UX Design</h4>
-<p align="left">
-  <a href="https://www.figma.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<!-- Version Control -->
-<h4>🔧 Version Control</h4>
-<p align="left">
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
+## ⚡ Who Am I?
 
-<!-- Hosting Platforms -->
-<h4>☁️ Version Hosting Platform</h4>
-<p align="left">
-  <a href="https://github.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
+```ts
+const darpan = {
+  role:       "Full Stack Developer + ML Enthusiast",
+  experience: "1–3 years of shipping (mostly) working code",
+  focus:      ["Frontend", "Backend", "APIs", "Data & AI"],
+  status:     "Turning caffeine into commits ☕",
+  fact:       "My code compiles on the first try... just kidding."
+};
+```
 
-<!-- Microcontroller IDE -->
-<h4>🤖 Microcontroller IDE</h4>
-<p align="left">
-  <a href="https://www.arduino.cc/en/software" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino IDE" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<!-- Code Editors -->
-<h4>📝 Code Editors</h4>
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://replit.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit" width="40" height="40"/>
-  </a>
-</p>
+## 🛠️ My Arsenal
 
+<div align="center">
 
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+> 💡 *Replace these with your real projects — you've definitely built cooler stuff than I can make up.*
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🚧 **Project Alpha** | What it does in one punchy line | React · FastAPI · PostgreSQL |
+| 🚧 **Project Beta** | What it does in one punchy line | Next.js · Node.js · MongoDB |
+
+---
 
 ## 📊 GitHub Stats
 
-   <p align="left">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darpan-10&layout=compact&theme=radical" alt="Top Languages" />
-   </p>
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Darpan-10&theme=radical" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Darpan-10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darpan-10&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darpan-10&theme=tokyonight&hide_border=true" height="180px"/>
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+![Snake animation](https://github.com/Darpan-10/Darpan-10/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> ⚠️ *To activate the snake: go to your repo's **Actions** tab → enable workflows → the snake SVG will auto-generate at the path above. Check [platane/snk](https://github.com/platane/snk) for setup.*
+
+---
+
+## 💬 Dev Wisdom
+
+> *"It's not a bug — it's an undocumented feature."*
+> *"Works on my machine. Shipping my machine."*
+
+---
+
+<div align="center">
+
+**Thanks for visiting — now go touch some grass. Or don't. Open a PR instead.** 🌿
+
+⭐ *If you like what you see, star something. It costs nothing and fuels my ego just enough to keep coding.*
+
+</div>
