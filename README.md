@@ -74,7 +74,7 @@ const darpan = {
 
 </div>
 
-> ⚠️ *To activate the snake: go to your repo's **Actions** tab → enable workflows → the snake SVG will auto-generate at the path above. Check [platane/snk](https://github.com/platane/snk) for setup.*
+>
 
 ---
 
