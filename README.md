@@ -54,7 +54,7 @@ Darpan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darpan-10&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darpan-10&layout=compact&theme=tokyonight&hide_border=true" height="180px"/> &nbsp;
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darpan-10&theme=tokyonight&hide_border=true" height="180px"/>
 
