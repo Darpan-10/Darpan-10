@@ -1,7 +1,7 @@
 <div align="center">
 
 # `< D A R P A N />`
-## ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-1f425f?style=flat-square&color=3b82f6) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning%?style=flat-square&color=10b981) | ![DevOps](https://img.shields.io/badge/DevOps-1f425f?style=flat-square&color=f59e0b)
+## ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-1f425f?style=flat-square&color=3b82f6) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-style=flat-square?color=10b981) | ![DevOps](https://img.shields.io/badge/DevOps-1f425f?style=flat-square&color=f59e0b)
 
 <img src=".github/workflows/git.gif" height="280px"/>
 </div>
